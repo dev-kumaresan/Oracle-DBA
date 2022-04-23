@@ -26,7 +26,7 @@
    * Data file Internally moves b/w rags
    * Data file Internally to the buffer<br><br>
 10. Managing Undo Data -<br>
-11. Implement Oracle Database Auditing -<br>
+11. Implement Oracle Database Auditing-<br>
 12. Database Maintenence - <br><br>
      * Patching
      * Bug fixes
