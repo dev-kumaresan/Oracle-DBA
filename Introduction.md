@@ -1,4 +1,4 @@
-# Database Administration -
+# Oracle Database Administration -
 1. Oracle Database Architecture -<br><br>
    * components
    * Memory
