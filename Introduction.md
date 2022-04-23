@@ -36,7 +36,7 @@
      * Tuning Parameters
      * Indexes<br><br>
 14. Backup and Recovery Concepts - <br>
-15. Performing Database Backups - <br><br>
+15. Performing Database Backups - <br>
 16. Performing Database Recovery - <br>
 17. Moving Data - <br><br>
      * Migrating one server to another server
