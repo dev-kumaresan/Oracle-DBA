@@ -15,7 +15,7 @@
    * TNS Entries<br><br>
 7. Managing Database storage structures -<br><br>
    * Manage Redo logs
-   * " Control files
-   * " Data files
+   * Manage Control files
+   * Manage Data files<br><br>
 8. Administering User Securities -<br><br>
    
