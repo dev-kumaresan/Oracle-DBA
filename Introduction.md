@@ -24,6 +24,18 @@
 9. Managing Data concurrency -<br><br>
    * Data file Internally moves b/w rags
    * Data file Internally to the buffer<br><br>
-10. Managing Undo Data -<br><br>
-   *  
+10. Managing Undo Data -<br>
+11. Implement Oracle Database Auditing -<br>
+12. Database Maintenence - <br><br>
+     * Patching
+     * Bug fixes
+     * Tracing issues and errors
+     * Troubleshooting<br><br>
+13. Performance Management - <br><br>
+     * Tuning Parameters
+     * Indexes<br><br>
+14. Backup and Recovery Concepts - <br>
+15. Performing Database Backups - <br><br>
+
+ 
    
