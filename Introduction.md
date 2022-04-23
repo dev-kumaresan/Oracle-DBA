@@ -18,4 +18,12 @@
    * Manage Control files
    * Manage Data files<br><br>
 8. Administering User Securities -<br><br>
+   * User Level Security
+   * Database level Security
+   * Auditing<br><br>
+9. Managing Data concurrency -<br><br>
+   * Data file Internally moves b/w rags
+   * Data file Internally to the buffer<br><br>
+10. Managing Undo Data -<br><br>
+   *  
    
