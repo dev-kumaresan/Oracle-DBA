@@ -2,7 +2,7 @@
    * components
    * Memory
    * Background processes
-   * storage and structure<br>
+   * storage and structure<br><br>
 2. Preparing Database Environment -<br><br>
    * Installation of oracle binaries
    * Database Installation
