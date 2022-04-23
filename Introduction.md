@@ -1,3 +1,4 @@
+# Database Administration -
 1. Oracle Database Architecture -<br><br>
    * components
    * Memory
@@ -36,6 +37,10 @@
      * Indexes<br><br>
 14. Backup and Recovery Concepts - <br>
 15. Performing Database Backups - <br><br>
-
+16. Performing Database Recovery - <br>
+17. Moving Data - <br><br>
+     * Migrating one server to another server
+     * upgrading one server to another server<br><br>
+18. Working with Support -
  
    
