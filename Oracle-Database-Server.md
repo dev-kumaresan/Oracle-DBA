@@ -5,3 +5,4 @@
 <h3>Standalone - Non clustered system :-</h3>
 <p>They have the set of one instance with one database on different servers accordingly based on server memory.</p>
 <h3>RAC - clustered system :-</h3>
+<p>More than one instance pointing to one database if possible means its RAC (M-O)</p>
