@@ -1,1 +1,1 @@
-
+### Three tier Architechture with standalone vs RAC
