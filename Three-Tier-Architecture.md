@@ -1,2 +1,2 @@
 ### Three tier Architecture with standalone vs RAC
-<img src="img/three-tier-Architecture">
+<img src="img/Three-Tier-Architecture">
