@@ -9,7 +9,7 @@ Three tier Architecture is nothing but it is the three layer.which are,<br><br>
 <p>Presentation Tier is the application which are used by the clients such as browsers and devices comes under presentation Tier.</p>
 
 ### Business Logics Tier -
-<p>Web and Application servers comes under Business Logics tier architecture.</p> 
+<p>Web and Application servers comes under Business Logics tier architecture. Eg., Apache,Xampp etc..</p> 
 
 ### Data Management Tier -
-<p>Database server comes under Data Management Tier Architecture.</p>
+<p>Database server comes under Data Management Tier Architecture. Eg., MySQL</p>
