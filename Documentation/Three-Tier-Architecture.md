@@ -2,7 +2,7 @@
 <img src="../img/three-tier-architecture.png">
 
 ## Three tier Architecture
-Three tier Architecture is nothing but it is the three layer.which are,<br><br>
+Three tier Architecture is nothing but it is the three layer.which are,<br>
 
  * Presentation Tier
  * Business Logics Tier - (Middleware)
