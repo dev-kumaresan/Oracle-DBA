@@ -1,5 +1,7 @@
-## Three tier Architecture with standalone vs RAC -
+### Three tier Architecture with standalone vs RAC -
 <img src="../img/three-tier-architecture.png">
+
+## Three tier Architecture
 Three tier Architecture is nothing but it is the three layer.which are,<br><br>
 
  * Presentation Tier
@@ -13,3 +15,6 @@ Three tier Architecture is nothing but it is the three layer.which are,<br><br>
 
 ### Data Management Tier -
 <p>Database server comes under Data Management Tier Architecture. Eg., MySQL</p>
+
+## Three tier Architecture with standalone vs RAC -
+<img src="../img/TTA_SvsR.png">
