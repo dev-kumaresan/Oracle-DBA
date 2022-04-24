@@ -1,5 +1,5 @@
 ## Three tier Architecture with standalone vs RAC -
-<img src="img/three-tier-architecture.png">
+<img src="../img/three-tier-architecture.png">
 Three tier Architecture is nothing but it is the three layer.which are,<br><br>
 
  * Presentation Tier
