@@ -11,8 +11,8 @@
 </td>
 </tr>
 <tr>
- <td>
-<li><a href="https://github.com/dev-kumaresan/Oracle-DBA/blob/main/Documentation/Three-Tier-Architecture.md">Oracle Three Tier Architecture</a>
 <td>
-  </tr>
+<li><a href="https://github.com/dev-kumaresan/Oracle-DBA/blob/main/Documentation/Three-Tier-Architecture.md">Oracle Three Tier Architecture</a>
+</td>
+ </tr>
 </table>
