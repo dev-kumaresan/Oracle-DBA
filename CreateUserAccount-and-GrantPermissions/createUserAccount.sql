@@ -1,0 +1,1 @@
+CREATE USER kumaresan IDENTIFIED BY mypassword;
