@@ -1,0 +1,1 @@
+GRANT PROCESS ON *.* TO 'kumaresan@localhost' IDENTIFIED BY 'Password_Name';
