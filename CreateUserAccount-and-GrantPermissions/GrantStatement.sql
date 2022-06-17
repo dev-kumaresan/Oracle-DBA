@@ -10,10 +10,10 @@ GRANT CONNECT, RESOURCE, DBA TO kumaresan;
 
 -- Assigning privileges
 
-GRANT CREATE SESSION GRANT ANY PRIVILEGE TO books_admin;
+GRANT CREATE SESSION GRANT ANY PRIVILEGE TO kumaresan;
 
 -- for modifying tables
-GRANT UNLIMITED TABLESPACE TO books_admin;
+GRANT UNLIMITED TABLESPACE TO kumaresan;
 
 -- grant permissions only for particular queries
 GRANT
